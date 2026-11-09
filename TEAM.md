@@ -1,15 +1,12 @@
-# AIS — danh sách và phân công
+# Team
 
-> Họ tên và MSSV đã được đối chiếu với danh sách AIS do nhóm cung cấp. Các vai trò dưới đây là phân công dự kiến trong hồ sơ.
+> Điền file này trên repo chung do nhóm trưởng fork. Nhóm điền phần **Thông tin nhóm** và **Thành viên**. Mỗi người tự điền phần của mình trong **Cá nhân**. Không copy file này sang repo khác.
 
 ## Thông tin nhóm
 
-- Tên nhóm — AIS
-- Lớp — L3B
-- Nhóm trưởng — Trần Văn Quang
-- Tên repo bài nộp dự kiến — `K5-L3B-DAY02-AIS-DiscoveryProblemFraming`
-- Candidate đề xuất — Xác định góp ý còn mở khi sửa một bản nháp nhóm có nhận xét ở chat và bình luận tài liệu.
-- Quyết định đề xuất — Not Yet vì hồ sơ chưa có kết quả kiểm chứng CP4.
+- Tên nhóm: AIS
+- Candidate problem nhóm chọn (1 câu): Xác định góp ý còn mở khi sửa một bản nháp nhóm có nhận xét ở chat và bình luận tài liệu.
+- Quyết định cuối (Go / Not Yet / No-Go): Not Yet vì hồ sơ chưa có kết quả kiểm chứng CP4.
 
 ## Thành viên
 
@@ -19,17 +16,6 @@
 | TV02 | Trương Văn Hải | 2A202604018 | Điều phối pitch và tổng hợp lựa chọn | Chưa xác nhận |
 | TV03 | Phan Nguyễn Phan Anh | 2A202604004 | Kiểm chứng và tổng hợp bằng chứng | Chưa xác nhận |
 | TV04 | Nguyễn Hữu Mạnh | 2A202604015 | Research và tổng hợp quyết định | Chưa xác nhận |
-
-## Ai nộp file nào
-
-| Thành viên | File cá nhân | Phần việc nhóm dự kiến |
-|---|---|---|
-| **Trần Văn Quang** | [2A202604032_TranVanQuang.md](report/individual/2A202604032_TranVanQuang.md) | Mục 4–5, quy trình và Problem Statement v0 |
-| **Trương Văn Hải** | [2A202604018_TruongVanHai.md](report/individual/2A202604018_TruongVanHai.md) | Mục 2, pitch, cluster, shortlist và lý do chốt |
-| **Phan Nguyễn Phan Anh** | [2A202604004_PhanNguyenPhanAnh.md](report/individual/2A202604004_PhanNguyenPhanAnh.md) | Mục 3.1–3.2, giả định và kiểm chứng |
-| **Nguyễn Hữu Mạnh** | [2A202604015_NguyenHuuManh.md](report/individual/2A202604015_NguyenHuuManh.md) | Mục 3.3 và 6–8, research, mức can thiệp, v1 và quyết định |
-
-Bốn file cá nhân được lưu cùng một [báo cáo nhóm](report/team/group_report.md). Nhóm trưởng cần bổ sung URL fork và từng thành viên xác nhận tài khoản GitHub dùng để commit. [Quy cách nộp bài](SUBMISSION.md)
 
 ## Phân công theo checkpoint
 
